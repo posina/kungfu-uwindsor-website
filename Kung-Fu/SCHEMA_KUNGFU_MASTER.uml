@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>DATABASE</ID>
+  <OriginalElement>d3f33665-7e24-442e-8bd5-995066dce5ca.SCHEMA:KUNGFU_MASTER</OriginalElement>
+  <nodes>
+    <node x="0.0" y="658.0">d3f33665-7e24-442e-8bd5-995066dce5ca.TABLE:KUNGFU_MASTER.ACCOUNT_SUMMARY</node>
+    <node x="361.0" y="0.0">d3f33665-7e24-442e-8bd5-995066dce5ca.TABLE:KUNGFU_MASTER.PAYMENTS</node>
+    <node x="0.0" y="0.0">d3f33665-7e24-442e-8bd5-995066dce5ca.TABLE:KUNGFU_MASTER.STUDENT</node>
+    <node x="0.0" y="472.0">d3f33665-7e24-442e-8bd5-995066dce5ca.TABLE:KUNGFU_MASTER.STUD_PROGRESS</node>
+    <node x="249.0" y="658.0">d3f33665-7e24-442e-8bd5-995066dce5ca.TABLE:KUNGFU_MASTER.RANK_MASTER</node>
+    <node x="268.0" y="472.0">d3f33665-7e24-442e-8bd5-995066dce5ca.TABLE:KUNGFU_MASTER.ATTENDANCE</node>
+    <node x="533.0" y="472.0">d3f33665-7e24-442e-8bd5-995066dce5ca.TABLE:KUNGFU_MASTER.STUD_ATTENDANCE</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.4428907503606487" x="248.44416171167904" y="214.5492251710787" />
+  <SelectedNodes>
+    <node>d3f33665-7e24-442e-8bd5-995066dce5ca.TABLE:KUNGFU_MASTER.ACCOUNT_SUMMARY</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Key columns</Category>
+    <Category>Columns</Category>
+  </Categories>
+</Diagram>
+

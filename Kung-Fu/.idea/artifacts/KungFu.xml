@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="KungFu">
+    <output-path>$PROJECT_DIR$/out/artifacts/KungFu</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="KungFu" />
+        </element>
+        <element id="library" level="project" name="lib" />
+      </element>
+      <element id="javaee-facet-resources" facet="KungFu/web/Web" />
+    </root>
+  </artifact>
+</component>
